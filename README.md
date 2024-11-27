@@ -1,2 +1,1 @@
-# .github
-牧灵云MuLingCloud
+# 牧灵云MuLingCloud
